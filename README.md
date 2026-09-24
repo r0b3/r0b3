@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @r0b3
-- 👀 I’m interested in apple tv apps
+- 👀 I’m interested in web apps, coding
 - 🌱 I’m currently learning to fix some problems to install apps
 - 💞️ I’m looking to collaborate on feedback
 - 📫 How to reach me 
